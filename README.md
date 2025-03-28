@@ -33,4 +33,4 @@ deepseek_key = your_api_key
 ```
 
 ## 📄 Sample Report
-![Report Preview](docs/sample_report.png)
+![Report Preview](reports/report_20250328_1632.md)
