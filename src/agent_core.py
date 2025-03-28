@@ -204,7 +204,7 @@ class PubMedAgent:
     def _generate_report(self, articles, start_date, end_date):
         """生成完整分析报告"""
         report = [
-            f"# PubMed深度分析报告 ({start_date} 至 {end_date})",
+            f"# PubMed月度分析报告 ({start_date} 至 {end_date})",
             f"**搜索关键词**: {self.SEARCH_KEYWORD}",
             f"**包含文献数**: {len(articles)}篇\n",
             "---\n"
