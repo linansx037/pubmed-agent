@@ -1,0 +1,17 @@
+
+
+# 环境相关
+.env
+.venv/
+venv/
+
+# 构建产物
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+
+# 敏感数据
+config/settings.ini
+*.key
